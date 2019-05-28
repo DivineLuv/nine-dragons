@@ -1,0 +1,61 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body { 
+	background-image: url("quentinghjk.jpg");
+}
+
+header { background-image: url("dragons.jpg");
+  background-repeat: no-repeat;
+  background-position: top; 
+}
+
+
+ul {
+	
+  position: auto;
+  top: 0;
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 100px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+} 
+p {color: white;
+    text-align: center;
+    font-family:  "Times New Roman";
+
+}
+
+h1{color: white;
+}
+a {
+    color: blue;
+}
+h2 {color: blue;
+}
+
+nav{
+  background-color: black;
+	
+}
+
